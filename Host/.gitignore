@@ -40,14 +40,6 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
-/Host/node_modules/
-/Host/npm-debug.log
-/Host/yarn-error.log
-
-/Shell/node_modules/
-/Shell/npm-debug.log
-/Shell/yarn-error.log
-
 # fastlane
 #
 # It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
